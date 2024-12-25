@@ -41,7 +41,7 @@ function App() {
 
   return (
     <main>
-      <img src={fetchingImg} alt=" An abstract of fetching data"></img>
+      <img src={fetchingImg} alt=" An abstract of fetching data..."></img>
       {content}
     </main>
   );
